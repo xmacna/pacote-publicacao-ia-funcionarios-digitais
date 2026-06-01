@@ -1,0 +1,43 @@
+{
+  "title": "Mapa de artigos self-serve XMACNA",
+  "brand": "XMACNA",
+  "last_reviewed": "2026-06-01",
+  "articles": [
+    {
+      "id": "SYN-001",
+      "title": "IA para vendas B2B: onde um agente de IA realmente ajuda",
+      "canonical": "https://xmacna.github.io/ia-para-vendas-b2b/",
+      "primary_keyword": "IA para vendas B2B",
+      "devto": "devto/ia-para-vendas-b2b.md",
+      "hashnode": "hashnode/ia-para-vendas-b2b.md",
+      "medium": "medium/ia-para-vendas-b2b.md"
+    },
+    {
+      "id": "SYN-002",
+      "title": "Agente de IA para WhatsApp: quando fluxo fixo deixa de bastar",
+      "canonical": "https://xmacna.github.io/agente-ia-whatsapp-template/",
+      "primary_keyword": "agente de IA para WhatsApp",
+      "devto": "devto/agente-ia-whatsapp.md",
+      "hashnode": "hashnode/agente-ia-whatsapp.md",
+      "medium": "medium/agente-ia-whatsapp.md"
+    },
+    {
+      "id": "SYN-003",
+      "title": "Tempo de resposta no WhatsApp: como medir perda de lead",
+      "canonical": "https://xmacna.github.io/tempo-resposta-whatsapp-leads/",
+      "primary_keyword": "tempo de resposta WhatsApp",
+      "devto": "devto/tempo-resposta-whatsapp.md",
+      "hashnode": "hashnode/tempo-resposta-whatsapp.md",
+      "medium": "medium/tempo-resposta-whatsapp.md"
+    },
+    {
+      "id": "SYN-004",
+      "title": "Follow-up automatico com IA sem virar spam",
+      "canonical": "https://xmacna.github.io/follow-up-automatico-com-ia/",
+      "primary_keyword": "follow-up automatico com IA",
+      "devto": "devto/follow-up-automatico-com-ia.md",
+      "hashnode": "hashnode/follow-up-automatico-com-ia.md",
+      "medium": "medium/follow-up-automatico-com-ia.md"
+    }
+  ]
+}
